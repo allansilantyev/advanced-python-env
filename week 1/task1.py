@@ -1,7 +1,7 @@
-first_name = input("Allan")
-last_name = input("Silantyev")
-age = input("18")
-phone = input("87783751223")
+first_name = input("Your first name? ")
+last_name = input("Your last name? ")
+age = input("How old are you? ")
+phone = input("Your phone number? ")
 
 print(f"{first_name}, {last_name}")
 print(f"{age}")
