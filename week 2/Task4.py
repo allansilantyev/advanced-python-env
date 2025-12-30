@@ -7,3 +7,4 @@ for i in range(n - m + 1):
     words.add(s[i:i + m])
 
 print(len(words))
+    
